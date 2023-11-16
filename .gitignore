@@ -32,3 +32,12 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+# Cloud Credentials
+sa.json
+
+# Log/DUMP
+*.log
+*.dump
+*.txt
+*.out
