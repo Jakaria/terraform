@@ -41,6 +41,7 @@ sa.json
 *.dump
 *.txt
 *.out
+*.ssh
 
 # remove aiplatform experiments
 ./vertex-aiplatform/*
