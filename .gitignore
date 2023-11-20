@@ -41,3 +41,8 @@ sa.json
 *.dump
 *.txt
 *.out
+
+# remove aiplatform experiments
+./vertex-aiplatform/*
+./test_aiplatform.tf
+

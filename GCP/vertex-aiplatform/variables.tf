@@ -6,7 +6,7 @@ variable "name" {
 variable "project_id" {
   type        = string
   description = "name of the gcp project ( can be different for different environments )"
-  default = "gcp-terraform-405012"
+  default = "<project_id>"
 }
 
 variable "dimensions" {
