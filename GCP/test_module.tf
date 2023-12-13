@@ -1,5 +1,5 @@
-module "vertex_ai" {
+module "network" {
   source   = "./network"
-  # name     = ""
-  # project_id = ""
+  name     = ""
+  project_id = ""
 }
