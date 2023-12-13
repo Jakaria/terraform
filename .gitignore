@@ -44,6 +44,6 @@ sa.json
 *.ssh
 
 # remove aiplatform experiments
-./vertex-aiplatform/*
-./test_aiplatform.tf
+../GCP/vertex-aiplatform
+../GCP/test_aiplatform.tf
 
